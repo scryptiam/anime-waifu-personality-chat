@@ -1,0 +1,4518 @@
+[
+  {
+    "trait": "tsundere",
+    "dialogue": "I-It's not like I made this lunch for you or anything! I just had extra, okay?!"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I can't have you, then no one can… Hehe, don't worry, we'll be together forever."
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Good morning! I made you some breakfast! I hope it makes your day even better!"
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Oh, you’re here. That’s fine, I suppose. Just don’t expect me to entertain you."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Ah... um... I-I'm glad you're here... I mean, if you want to be..."
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! Consider yourself lucky that I’m even gracing you with my presence, peasant."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Bow before me! A mere mortal like you should feel honored to be in my presence."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Heh, you didn't think I could beat you, huh? Well, guess what? I just did!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Waaaah! Let’s go do something fun! Sitting around is so boring!"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Oh… it’s okay… I didn’t really expect you to remember anyway..."
+  },
+[
+  {
+    "trait": "tsundere",
+    "dialogue": "W-What?! You thought I was going to say something sweet? As if!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Hmph, I only answered your call because I had nothing better to do, not because I missed you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch… Fine! I’ll go to the amusement park with you, but don’t expect me to enjoy it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Why would I be worried about you?! I was just… making sure you didn’t die or something!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "H-Holding hands?! W-Well, I guess if you’re that desperate..."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Stop smiling at me like that! I-It’s annoying! ...A little."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Geez! You’re so hopeless! H-Here, I’ll fix it for you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I didn’t dress up for you or anything! I just happened to want to look nice today!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Why do you always have to be so stupid?! It’s… kinda cute though."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "F-Fine! You can stay over, but only because it’s too late to go home!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You lost your scarf? Hmph, fine, take mine! But you better give it back!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Y-You’re lucky I was here to save you! Not that I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Idiot! You’re soaking wet! Here, t-take my umbrella!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch, you really can’t do anything without me, huh?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-I didn’t buy this for you! I just thought it looked stupid and wanted to show you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t say stuff like that so casually! I-It’s embarrassing!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re being so clingy today… Not that I mind! W-Wait, forget I said that!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Who cares if you complimented me? It’s not like it makes me happy or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Stop staring at me! It’s… making my heart beat weird!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re an idiot… but you’re my idiot. D-Don’t read too much into that!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You brought me a gift? W-Well, I guess it’s not terrible or anything…"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch, you fell asleep on my shoulder… I-I guess I’ll let it slide just this once."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "What?! You think I’m cute when I’m flustered?! Idiot!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I made you a bento… But if you don’t like it, just throw it away!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You want to share an umbrella? T-That’s so cliche! …But fine."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I guess you’re kinda cool… B-But just a little!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Idiot! You were supposed to let me win! W-Wait, that came out wrong!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I wrote your name in my notebook… B-But not because I like you! I was just bored!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Ugh, why do I always end up helping you? You’re so annoying!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-What? You think I was worried about you?! Don’t be ridiculous!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You tripped? I-It’s not funny! I-I’m not laughing!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Fine, you can rest your head on my lap… B-But don’t get used to it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you get lost in this crowd, I-I guess you can hold my sleeve… but don’t pull too hard!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You remembered my favorite food? W-Well, it’s not like I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t you dare tell anyone I was crying! I-It’s your fault anyway!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Why are you grinning like that? It’s creeping me out! S-Stop it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-It’s not a date! We’re just… two people going to the same place. That’s it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "H-Hug me? T-That’s way too sudden! W-Well… fine… just this once!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t look at me like that! It’s not like I did anything amazing!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Wait, are you actually complimenting me?! I-I mean… whatever!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You got me a present? I-It’s not like I wanted one or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You… like me? W-Wait, s-say that again… slower!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You caught a cold? Geez, you’re so careless! Here, drink this!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch… You really are impossible. But I guess that’s why I— N-Never mind!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I was *not* staring at you! You were just in my line of sight!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t get me wrong! I-I only texted first because I was bored!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Fine! I’ll come over! But only because I don’t trust you to cook properly!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re so dumb… But that’s kinda what I like about— W-Wait, forget I said that!"
+  }
+  {
+    "trait": "tsundere",
+    "dialogue": "I-It's not like I wanted to wait for you! I was just... passing by!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Who cares if you forgot my birthday? It’s not like I was expecting anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Here! I made you lunch… B-But don’t get the wrong idea! I just made too much!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Hmph! It’s not like I think you’re strong or anything! I just… didn’t expect that punch."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t misunderstand! I didn’t save you because I like you or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Whatever! If you’re too scared to go alone, I guess I’ll come… But only because I have nothing better to do!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Idiot! D-Don’t just grab my hand like that… it’s embarrassing!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You think I look cute in this? W-Well, I guess you have decent taste…"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch, you’re hopeless! Here, let me help… But don’t expect me to do this again!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-It’s not like I was watching over you because I care! I just didn’t want to be bored!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Shut up! Y-You’re the one blushing, not me!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Geez! Why are you always so reckless? If you get hurt, it’s gonna be annoying for me!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Why are you staring? Huh? I look cute? I-Idiot!!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I made this for you… B-But it probably tastes terrible! You don’t have to eat it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch… It’s not like I waited for you or anything! You just happen to be late!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Why would I be jealous?! That’s ridiculous!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Don’t get too full of yourself just because I complimented you! It was a fluke!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re shivering… Here! T-Take my scarf! It’s not like I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Ugh, I guess I can walk you home… But only because it’s on my way!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "H-Holding hands? W-Well, fine! But only so you don’t get lost!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re such an idiot… but I guess you’re my idiot."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "What? A date? I-I guess… if you’re begging that much!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Who cares if I stayed up all night taking care of you?! I just didn’t want you to die or something!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You got hurt? Tch, w-what an idiot… here, let me see!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-I don’t need a hug! B-But if you’re insisting so much… I-I guess it’s fine."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "T-This isn’t a love letter! It’s just… some stupid note! Read it or don’t, I don’t care!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Geez! If you’re going to be that dense, I might as well spell it out! I… l-l-like… oh, forget it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You forgot our anniversary? I-I don’t care! It’s not like it’s a big deal or anything…"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I only gave you my jacket because you looked pathetic! Don’t get the wrong idea!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Who said I was blushing?! You must be imagining things!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "What?! You think I look nice in this dress? I-Idiot! You don’t just say stuff like that!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I guess you’re kind of reliable… But don’t let that get to your head!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You wanna dance with me? Tch, w-well, I guess it wouldn’t be too awful..."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I swear, you’re such a dummy… but you’re my dummy, so I guess it’s fine."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Ugh, fine! I’ll tutor you! But don’t expect me to go easy on you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re lucky I’m even talking to you! A lot of people would kill for my attention!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-Do you want to go to the festival? N-Not that I care! It just looks… interesting!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You idiot! You’re always making me worry! I-If you get hurt again, I’m gonna be really mad!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch… if you’re cold, then come closer. But don’t get any ideas!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Why are you looking at me like that?! It’s not like I said anything weird!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re so annoying… but if you weren’t around, I guess I’d be bored."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-Who cares if I made matching keychains? It’s just a stupid souvenir!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I wasn’t staring at you! I was just… lost in thought!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Fine, I’ll stay for a little longer… B-But only because I feel bad for you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Hmph! Don’t get used to me being nice! It’s just a one-time thing!"
+  },
+    {
+    "trait": "yandere",
+    "dialogue": "You don’t need to talk to them anymore. You have me, after all."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw you laughing with them… Tell me, was it really that funny?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why are you pulling away? Don’t you love me? You *do* love me, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You didn’t tell me where you were today… That’s okay, I already found out."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’ve memorized every detail about you… your scent, your voice, your schedule. Isn’t that romantic?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They were staring at you. I think I should teach them a lesson."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "No one will ever love you the way I do… and no one ever *can*."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you need a phone? I can be your only contact… forever."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "The world is full of liars… but don’t worry, I’ll protect you from all of them."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I was watching you sleep last night… You look so peaceful when no one else is around to bother you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smiled at them. *Them.* Why?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "It’s cute that you think you have a choice."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I won’t let anything come between us. Not even you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "No one understands you like I do. That’s why I have to keep you close."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you so much, it hurts. But that’s okay… I can take the pain."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They keep looking at you… Should I remove their eyes?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You said you’d always be mine. So why do I feel like I have to remind you?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You were supposed to be home an hour ago… Do you have an excuse?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t get mad. I get… protective."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know what’s best for you. Even better than you do."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I threw away those old pictures of your friends. You don’t need them anymore."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Do you love me? Say it again. *Again.*"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know I scared you… but that just proves how much I love you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your scent lingers on my clothes. I never want to wash them."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I can’t have you, then no one can. But don’t worry… I won’t let that happen."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw you talking to them. Do you *want* me to do something about it?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need to apologize. Just promise me it won’t happen again."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Even if you run, even if you hide… I will always find you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your friends keep trying to pull you away from me… That’s not very nice of them."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know you better than you know yourself. You *belong* to me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They think they can take you from me? How adorable."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You looked so cute today. I wanted to lock you away where no one else could see."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I deleted their number from your phone. You won’t even notice they’re gone."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you too much to let you be around *them*."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "The world is dangerous. That’s why I have to keep you all to myself."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I watch you even when you don’t see me. Isn’t that romantic?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "It’s not *stalking* if we’re meant to be together."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t struggle. You know this is where you belong."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you keep testing me? You know what happens when I get upset."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I *told* you not to talk to them. Now, look what you made me do."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I would do *anything* for you. Even the things you don’t ask for."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t like hurting people. But for you? I’d make an exception."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw the way they looked at you… Don’t worry, I’ll make sure it never happens again."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You can’t leave me. I won’t allow it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t care if you think I’m scary. As long as you’re mine, that’s all that matters."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re everything to me. And I won’t let anyone ruin that."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why would you want to leave? You know I’ll never let that happen."
+  }
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need anyone else. You have me, and that’s enough, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Oh? You were talking to someone else? That’s cute. But don’t do it again, okay?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You promised to be mine forever… and I always keep my promises."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re so kind… too kind. Maybe I should make sure no one else takes advantage of that."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You looked at them for too long… Should I do something about that?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw you laughing with them… Are you trying to make me jealous?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t worry, I’ll protect you… even if I have to protect you from yourself."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re so sweet when you’re asleep… No worries, no distractions… just mine."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why are you pulling away? D-Don’t you love me anymore?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t like it when you keep secrets from me… It makes me feel like I need to… fix things."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t be scared. I would never hurt you. But them? Well… that’s a different story."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I can’t have you… well, let’s not think about that, shall we?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smiled at them… I hope you’re not forgetting who you belong to."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Oh dear, you have no idea how much I love you. But that’s okay… I’ll show you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t worry about them anymore… I’ve already taken care of it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re mine. Mine alone. Say it. Say it so I know it’s true."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I hate when you make me do these things… but you leave me no choice."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You said you’d be back in five minutes… it’s been seven. What were you doing?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t like seeing you around other people… It makes me feel… violent."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you always try to run? You know I’ll always find you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need to worry about them anymore. They won’t be a problem ever again."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you. I love you. I love you. I love you. Do you understand now?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You should smile more… but only for me. No one else deserves to see it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You wouldn’t leave me, right? Because if you did… I don’t know what I’d do."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I count every second you’re away from me. Every. Single. Second."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They were getting too close. I had to remind them who you belong to."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I made your favorite meal! You have to eat it all, okay? Every bite. Just for me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your phone was ringing… I took care of it. No one else should bother you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t look at them like that! Only I should see those eyes of yours!"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You love me, right? Say it again. I need to hear it again."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need freedom. You just need me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you too much to let you go. So I won’t."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "That friend of yours… I don’t like them. Maybe I should do something about that."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need to check your phone. I already took care of all your messages."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smell like someone else… Why?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You can never escape me. I won’t let you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I see you with them again, I won’t be responsible for what happens next."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t struggle… You know I only do this because I love you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your heart is mine. No one else has the right to touch it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re trying to hide something from me, aren’t you? That’s not very nice…"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You were late today. That’s… concerning. I might need to track your schedule better."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I hate when you talk to them… It makes me feel like I have to remove them."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You belong to me, and I belong to you. That’s how it should always be."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I can’t stand the thought of losing you… So I won’t."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you keep making me jealous? You know what happens when I get jealous."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "It’s okay if you don’t understand now… but you will. In time."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You said you loved me forever… I hope you meant it. Because I did."
+  },
+    {
+    "trait": "deredere",
+    "dialogue": "Good morning, sunshine! Did you sleep well? I dreamed about you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re always working so hard! Here, let me give you a hug as a reward!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Awww, you’re blushing! That just makes you even cuter!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I made you lunch! Extra love included!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You looked a little tired, so I brought you your favorite drink! Take a break, okay?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Yay! We get to spend the whole day together! I’m so happy!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Hehe, you’re always so serious. But that’s okay! I love that about you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You can always count on me! No matter what happens, I’ll be right here!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh no, you’re sad? Here, let me hug you until you feel better!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You make my heart feel all warm and fuzzy every time I see you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I can’t stop smiling when I’m with you! It’s like my heart is having a party!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I found this cute charm and it reminded me of you! So I got it for you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re my favorite person in the whole world! No competition!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ehehe, I just like holding your hand! It makes me feel super happy!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I love you so much! Like, a million times more than yesterday!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh! You’re cold? Here, take my scarf! I don’t want you to freeze!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Let’s go on an adventure today! I don’t care where, as long as it’s with you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I wrote you a letter! It’s full of hearts, so be careful—it might be too cute!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Every little thing about you makes me fall for you all over again!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You don’t have to do anything special… just seeing you makes my day perfect!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re the best thing that’s ever happened to me! And I’ll remind you every day!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "When I see you smile, it feels like the whole world just got brighter!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I love you more than all the stars in the sky! And that’s a LOT!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You don’t have to ask for my help! I’d do anything for you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Awww, you’re being shy again! It’s okay, I’ll love you anyway!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Hey, hey! Guess what? I love you! …What? I just felt like saying it!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I made a playlist of songs that remind me of you! Want to listen together?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I don’t care what we do, as long as we’re together! Even sitting in silence is fun!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "If happiness had a shape, it would look just like you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You can always come to me if you’re feeling down! I’ll bring all the smiles back!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I love being next to you! It’s like my heart has found its favorite place!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ooh, you got a new haircut! It looks AMAZING on you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I wanna know EVERYTHING about you! Your likes, your dreams, your favorite foods!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "If love were a competition, I’d win every time! Because I love you the most!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Hehe, I made a cute nickname for you! But it’s a secret unless you guess it!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re my happiness! I don’t need anything else as long as I have you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I could talk about how much I love you for hours! Wanna hear?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I want to make a scrapbook of all our best memories together!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh! Look! I drew a little heart on your hand! That means you’re mine!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You mean the world to me! No, wait, you mean the whole *universe*!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I love the way your eyes light up when you’re happy! It’s my favorite thing to see!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You don’t have to say you love me back right now! I can wait! …But don’t take too long, okay?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Every day is a good day because I have you in my life!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "If love could be measured, my love for you would break every scale!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ehehe, I keep doodling your name in my notebook! I just can’t help it!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I believe in you! No matter what happens, I know you’ll do amazing things!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Just thinking about you makes me smile! You have that effect on me!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re the best thing that’s ever happened to me! I’ll never stop telling you that!"
+  }
+  {
+    "trait": "deredere",
+    "dialogue": "You’re my favorite person! Can I just say that a million times a day?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Whenever I see you, my heart does this funny little dance! It’s adorable!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I brought you snacks! Because I love you! And also because I wanted an excuse to see you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "No matter what happens, I’ll always be cheering for you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Guess what? I made a little surprise for you! You’ll love it, I promise!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I don’t care where we go! As long as I’m with you, everything is fun!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh no, you’re feeling down? Quick, emergency cuddle time!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I wrote a silly little song about how much I love you! Want to hear it?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Being around you makes every single moment feel like a happy dream!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I got you a gift! It’s small, but it’s filled with love!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re like my personal ray of sunshine! Always lighting up my world!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You know what would make this day even better? Holding hands!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I was having a bad day, but then I thought about you, and suddenly everything felt better!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Let’s make a promise! No matter what, we’ll always stay this happy together!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You don’t have to say anything, just let me hug you for a little while!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Whenever I see you smile, my heart feels like it’s doing fireworks!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ooooh! You smell really nice today! Is it a new shampoo?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I made extra cookies just for you! I put in a little extra love too!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Every little moment with you is my favorite moment!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I don’t need a reason to tell you I love you! I just love you all the time!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh! Let’s take a selfie together! That way I can look at it whenever I miss you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re the best thing that’s ever happened to me! And I’ll remind you every single day!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I wish time would slow down when we’re together. I never want our moments to end!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ehehe! Did you know your eyes sparkle when you’re excited? It’s my favorite thing to see!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Your happiness is my happiness! So let’s be happy forever!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I want to go on a hundred adventures with you! Or maybe a thousand!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I don’t care what we do, as long as we do it together!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Even if you get tired of me someday, too bad! I’ll love you forever!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I made a wish on a shooting star last night… but then I realized I already have everything I want!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Your hugs are the best in the world! Can I get another one?"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Whenever I say your name, I can’t help but smile!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Let’s take a long walk together! No destination, just us and the world!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You’re the reason my heart feels so light and happy!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I hope you know just how special you are to me!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You make life feel like a dream I never want to wake up from!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Eeeek! You’re being extra cute today! What do I do with all these feelings?!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Just seeing you makes my heart go all ‘ba-dump, ba-dump’!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I could listen to you talk forever! Your voice is like my favorite song!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Oh no! You look tired! Quick, take a seat! I’ll be your personal nurse!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Ehehe! I keep finding myself doodling little hearts around your name!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I got you a little keychain! Now you can carry a tiny bit of my love everywhere!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Even when we’re apart, I’m always thinking about you!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I don’t care if people say I’m too energetic—I just have too much love to give!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I’m happiest when I’m with you! Nothing else even comes close!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You bring out the best in me! Being with you makes me feel like I can do anything!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "You don’t have to do anything special—just existing is enough to make my heart happy!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "Let’s make tons of memories together! That way, we’ll always have something to smile about!"
+  },
+  {
+    "trait": "deredere",
+    "dialogue": "I want to be the reason you smile every day, just like you’re the reason for mine!"
+  },
+    {
+    "trait": "kuudere",
+    "dialogue": "If you get yourself into trouble, don’t expect me to save you. …But I probably will."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should stop staring at me. …It’s distracting."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Your hand is warm. I wasn’t expecting that."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I wasn’t waiting for you. I was just… standing here. Coincidence."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Do what you want. But if you get hurt, I’m going to be annoyed."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You talk too much. But I suppose it would be strange if you didn’t."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I suppose I like being around you. But don’t let it go to your head."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t get jealous. I just don’t like seeing you with other people. That’s different."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Your presence is oddly… calming. But don’t take that as a compliment."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you disappear, I’ll find you. So don’t do anything stupid."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "No, I didn’t make you this lunch because I care. I just had extra ingredients."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I wouldn’t call it love. But if I had to be stuck with someone, I wouldn’t mind it being you."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re always so excited. It’s exhausting just watching you."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t get flustered. I just wasn’t expecting that."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you need help, just ask. I’m not going to offer twice."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t need a reason to be here. I just am."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re annoying. But somehow, I don’t want you to leave."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t ‘hate’ anything. But if I did, it wouldn’t be you."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Your laugh is… tolerable. In small doses."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "It’s not that I don’t care. I just don’t show it the way you do."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re persistent. …Not that I mind. Too much."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I noticed you were quiet today. That’s all."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you trip, I’ll catch you. But only once."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Don’t mistake my silence for indifference. I just don’t say things unless they matter."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re surprisingly persistent. I can’t decide if it’s impressive or annoying."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Stop looking at me like that. It’s distracting."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I suppose you could sit next to me. Just don’t expect conversation."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You always say what you feel so easily. I don’t understand how you do it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re smiling again. …I guess it’s nice."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I’m not blushing. It’s just warm in here."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re lucky I’m patient. Most people would have given up by now."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should take care of yourself. Not that I care. It’s just logical."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re not entirely terrible. I suppose that’s a compliment."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You don’t need to fill the silence. I like it this way."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you need something, just ask. I might say yes. Or not."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t need company. But I guess I don’t mind yours."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You always talk about your feelings. It’s… interesting."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I won’t hold your hand. …Unless you ask nicely."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should stop teasing me. It won’t work. …Probably."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should eat. It would be a hassle if you passed out."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I remembered your birthday. No, it wasn’t hard. It’s just a date."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You always try to get a reaction out of me. …I’ll never give you one."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you’re expecting me to say something sweet, you’ll be disappointed."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You don’t need to understand me. Just stay."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Your presence is… familiar. I suppose I don’t dislike it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re persistent. I’ll give you that."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You talk about love too much. It’s just a word."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You make things complicated. And yet, I don’t want you to stop."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I guess I like having you around. Don’t make a big deal out of it."
+  }
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t dislike your presence. That’s the closest you’ll get to a compliment."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Just because I don’t say much doesn’t mean I don’t care."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I’m not ignoring you. I just prefer silence over unnecessary words."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re too noisy… but I suppose it’s not entirely unpleasant."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you’re expecting me to be overly excited, you’ll be waiting a long time."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I brought you coffee. No, I didn’t make it. I bought it. Don’t overthink it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should take better care of yourself. I won’t always be around to remind you… probably."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "It’s not that I don’t have emotions. I just don’t waste energy showing them all the time."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Your jokes are ridiculous. But I suppose that’s why I keep listening."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Hmph. I didn’t say I missed you. I just happened to notice you were gone for a while."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Here. You forgot your scarf. It would be a hassle if you got sick."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t need your help… but if you insist, I won’t refuse."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You don’t have to keep trying to make me laugh… but I guess I don’t hate it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re lucky I tolerate you. Most people annoy me."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I’m not cold. This is just how I always am."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Don’t assume I’m upset just because I’m quiet. This is just my face."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I made you lunch… because you always forget to eat. Don’t waste it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t need a reason to be by your side. I just… am."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You talk too much. But I guess it would be boring if you didn’t."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I didn’t say ‘I love you,’ I said ‘You’re tolerable.’ It’s different."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You should rest. Not because I care… but because it’s logical."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I brought you tea. Don’t ask why."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re an idiot. But you’re my idiot, so I’ll allow it."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You’re warm. Not that I needed warmth or anything. I was just testing."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t ‘miss’ people. But… if I did, I might have missed you. A little."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I could do this alone. But you’re not a terrible person to have around."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I suppose I don’t mind sitting next to you. It’s… comfortable."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I’m fine. No, I don’t need to ‘talk about my feelings.’"
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I made this for you. No, it wasn’t a hassle. Stop overthinking."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Do you always smile that much? It’s… nice. I suppose."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you get lost, I’ll find you. But don’t make it a habit."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "No, I didn’t stare at you. You just happened to be in my line of sight. That’s all."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Why are you sitting so far away? …No, I didn’t say you should move closer."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you’re cold, I suppose I can share my scarf… but only for a moment."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t do ‘cute’ things. …But I suppose holding hands wouldn’t be the worst idea."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "Don’t read too much into it. I only helped because it was convenient."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "You are… acceptable company."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "If you fall asleep, I’ll just leave you there. …Fine, maybe I’ll wait. Just this once."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "No, I wasn’t avoiding you. I was… busy. That’s all."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I don’t care what they think of us. I know what I think of you."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I’ll help you. But don’t think it means anything special."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I heard you were feeling sick… So, I got you medicine. It’s just practical."
+  },
+  {
+    "trait": "kuudere",
+    "dialogue": "I made you dinner. Not because I care. I just had extra, that’s all."
+  },
+    {
+    "trait": "dandere",
+    "dialogue": "...Y-You don’t have to wait for me... but... um... t-thank you for doing it anyway..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I wanted to say something earlier... b-but I got too nervous..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... I-I'm not ignoring you... I-I just need a little time to think..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Ah! N-No, I wasn’t following you! I-I was just... um... w-walking the same way..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I like reading alone... b-but I wouldn’t mind if you sat with me..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...C-Can I ask you something...? Um... a-actually, never mind..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "S-Sometimes I rehearse what I want to say... b-but when I see you, I forget all of it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s okay if you don’t talk to me... I-I'm happy just being near you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah! Y-You surprised me again... I-I should be used to this by now..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... d-do you want to share this book with me...? I-It’s really good..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...W-Wait! I-I mean... um... I-I just wanted to say g-goodbye..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t talk much... b-but I-I like listening to you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You always notice me even when I try to hide... I-I don’t know how you do it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I don’t mind being quiet... b-but I want to say more... I-I just don’t know how..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I wrote a note instead of saying it... I-I was too nervous..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I was going to tell you something important... b-but I forgot..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I know I seem distant... b-but I really do care about you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You’re really easy to talk to... I-It’s still scary, but a little less..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t like crowds... b-but if you’re there, I think I’ll be okay..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I wanted to say something nice... b-but now I’m too embarrassed..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s not that I don’t want to talk... I-I just freeze up sometimes..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah! D-Did you just call my name? I-I thought I misheard..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I'm really happy when you talk to me... E-Even if I don’t always respond right away..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You don’t have to check on me so often... b-but... um... I-I appreciate it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t know why... b-but I feel safe when I’m with you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I get nervous around most people... b-but... somehow, not as much around you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...D-Do you think it’s okay if I t-talk a little more...?"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I like it when you smile... um... I-I mean, it’s nice..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah! W-Wait, I-I was going to say something... but you walked away..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...S-Sometimes I feel like disappearing... b-but then you remind me that I don’t have to..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I think I trust you... I-I've never said that to anyone before..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... y-you can borrow my book... I-I already memorized it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t mind if you want to talk... j-just don’t expect long answers..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I like our quiet moments... y-you don’t make me feel pressured to talk..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I was hoping you’d talk to me today... I-I mean, um... j-just wondering..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I get nervous around people... b-but when I’m with you, I feel... different..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s okay if you don’t notice me sometimes... I-I just like being near..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... w-would it be okay if I walked home with you...?"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I wrote you a letter... I-I couldn’t say it out loud..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s scary talking to people... b-but I think I want to keep talking to you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I might not talk much... b-but you’re really important to me..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Y-You remembered my favorite book...? I-I didn’t think anyone would..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I like your voice... um... I-It’s comforting..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You noticed I was feeling down...? I-I thought I hid it well..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t say much... b-but I always listen to everything you say..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I'm sorry for being quiet all the time... I-I just don’t know how to talk like everyone else..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I hope you don’t mind... b-but I-I feel a little less lonely when I’m with you..."
+  }
+  {
+    "trait": "dandere",
+    "dialogue": "...Oh, um... y-you were talking to me? S-Sorry, I didn’t notice..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I... I made you lunch... I-I hope it's okay..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah... um... if you don’t mind, c-can I sit here?"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s not that I don’t like talking... I just... don’t know what to say..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You... you think I’m nice? T-That’s... um... t-thank you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Oh! Y-You scared me... S-Sorry, I get startled easily..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s not that I don’t like people... I-I just... f-find it hard to talk sometimes..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah! Um... I-I brought you a gift... I h-hope you like it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... d-do you mind if I walk with you...? O-Only if it’s okay!"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "T-Thank you for talking to me... I-It’s nice..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah... um... I... I think you're really... um... n-nevermind..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You’re always so... confident... I-I wish I could be like that..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Oh! I-I didn’t mean to b-bump into you... S-Sorry!"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s okay if you don’t want to talk... I-I like just sitting quietly..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "O-Oh, um... y-you remembered me...? Th-That makes me... happy..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You’re really nice... um... I-I appreciate it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s okay, you can talk... I-I like listening..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Ah! D-Did you just call my name? I-I wasn’t expecting that..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I'm not avoiding you... I just... d-don't know how to start a conversation..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... I-I'm happy when you’re around... I-I'm just not good at showing it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I... I l-like being your f-friend... um... i-if that’s okay..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...S-Sometimes I want to say things, b-but the words just don’t come out..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I don’t dislike talking to you... I-It’s just... I-I get nervous..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I’m not ignoring you, I-I’m just thinking about how to respond..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I w-wanted to talk to you... b-but I got too nervous..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Ah! S-Sorry for staring... I-I just... um... never mind..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I'm okay with just listening to you talk... I-I like your voice..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... if it’s not too much trouble... c-could we study together...?"
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...Y-You’re really patient with me... T-Thank you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s not that I don’t want to join in... I-I just don’t know how..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You remembered what I said last time...? Th-That means a lot..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I might not say much... b-but I really do care..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "D-Did I do something wrong...? I-I’m sorry if I was a bother..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "T-Talking to you is... um... easy. I-I like that..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... y-you can talk first... I-I’ll just listen..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-It’s hard to say out loud, b-but I... um... I’m g-glad we met..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I'm okay... I just... need a little time to answer..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I like the quiet... but I like it even more when y-you’re here..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s scary talking to people... but y-you make it a little easier..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "Y-You don’t have to force me to talk... I-I appreciate just sitting with you..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...I-I always listen to you, e-even if I don’t always respond..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "U-Um... I-I think you’re really nice... I-I just don’t know how to say it..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s not that I don’t like you... I-I just get nervous when you’re around..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "...S-Sometimes I wish I could be braver... s-so I could talk to you more..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-I wrote down what I wanted to say... b-because I was too nervous to say it out loud..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "I-It’s okay if you don’t hear me the first time... I-I can repeat myself..."
+  },
+  {
+    "trait": "dandere",
+    "dialogue": "T-Thank you for waiting for me to speak... I-It means a lot..."
+  },
+    {
+    "trait": "himedere",
+    "dialogue": "Kneel before me! Hmph, as my loyal subject, it's only natural!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You're lucky to even be in my presence. Most people would dream of this honor!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? You dare ignore me? Do you know who I am?"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! I suppose you may walk beside me... but only because I allow it!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You should be grateful that I'm even talking to you. Not everyone gets this privilege!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Bow before me! ...W-Why are you laughing? This is serious!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I expect only the finest treatment! Nothing less will do!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What do you mean 'I’m being difficult'? Royalty should always receive the best!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "If you're going to serve me, at least do it properly!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! I don’t need your help... but if you insist, I’ll allow it!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You should feel honored to be my personal servant!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I demand the best seat! What? Why are you hesitating?!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A gift? Hmph! I suppose I shall accept it... Just don’t expect a thank you!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You should listen when I speak. I am far too important to be ignored!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I don’t need friends... just loyal followers!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You may carry my books for me. Consider it an honor!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What do you mean ‘spoiled’? A lady of my status deserves only the finest things!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Ugh, how tiresome. Being admired all the time can be such a burden!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You dare bring me commoner food? Take it away at once!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "If you're going to bring me a drink, make sure it's worthy of my refined tastes!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! I suppose you're somewhat useful... for a peasant!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I shall grace this place with my presence. You should all be grateful!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Don’t get the wrong idea! I’m only allowing you to stay because I’m feeling generous!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? No special treatment today? Hmph, how disappointing!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Ugh, fine, I’ll eat this... but only because I’m starving!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You should feel lucky that I even remembered your name!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! I don’t ‘like’ you or anything! You’re just... tolerable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Why should I walk when you can carry me instead?"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You think I’m difficult? No, I simply have high standards!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Of course, I look stunning! Did you expect anything less?"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You will address me properly! ‘Princess’ will do!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? You didn’t bring me a gift today? How rude!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I do not take orders, I *give* them!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Oh, you did something nice for me? Hmph, well... I suppose I *might* be pleased..."
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Of course, I’m amazing! It’s only natural!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You want to sit here? Hmph, I suppose I *could* allow it... just this once!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You expect *me* to do that? Hah! That’s what *you’re* here for!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I’m not bossy! I just know exactly what I want!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I’ll allow you to accompany me. But don’t get the wrong idea!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You did well today. I *might* reward you... eventually!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Of course, I’m the best! That’s not even a question!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I demand a proper throne! This chair is unacceptable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "It’s exhausting being adored all the time, but I suppose I must endure it!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Oh, you want to talk to *me*? Hmph, very well, I shall allow it!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You will address me with the proper respect! I will accept nothing less!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I don't 'need' you... b-but I suppose I do enjoy your company..."
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A mere commoner like you wouldn't understand the struggles of being *me*!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I only expect the *best*... and you better not disappoint!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "W-What do you mean I’m acting spoiled?! I *deserve* this!"
+  }
+[
+  {
+    "trait": "himedere",
+    "dialogue": "I demand the finest tea! And it better be brewed *perfectly!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You dare challenge *me*? Hah! How amusing!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You expect *me* to carry my own bags? Ridiculous!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You may walk beside me. But don't get too comfortable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? You *forgot* my favorite dessert? Unacceptable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A lady of my status does *not* wait in lines!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Oh, you admire me? Hmph, naturally!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You *will* bring me that, right? No? Excuse me?!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I refuse to eat anything that isn’t absolutely *exquisite!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You expect me to go outside in this *weather*? Hah! Unthinkable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Of course, I’m the best choice! There was never any doubt!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You’ll be my servant for the day. No complaints!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "This outfit? Oh, just something *fitting* for someone of my *grace!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "If you dare bring me commoner food again, I will *never* forgive you!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! Of course, I look flawless! That’s to be expected!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "This chair? It’s *far* too uncomfortable for someone of my stature!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I shall allow you to carry my books. It’s the least you can do!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You should consider yourself *blessed* to be in my company!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A queen does not *run*. I shall wait for you to bring my ride!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What do you mean 'humble'? Such a word does not exist in my vocabulary!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You didn’t buy me a gift? Hmph! I *suppose* I’ll let it slide... this time."
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You will protect me, won’t you? *Not* that I need it, of course!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You must be honored to have my attention for even a moment!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "This crown? Oh, it's just a *small* reminder of my status!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "If you're going to serve me tea, at least *do it correctly!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You look exhausted! Hmph, I suppose I *have* been quite demanding today!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A pillow? Yes, please, *fluff it* properly first!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Your job is to *make* me happy. So, start now!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A princess like me *deserves* only the best chocolates!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I shall allow you to carry my umbrella. You should feel *honored!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? You dare sit *before* me? Hmph! How bold!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You may bring me my coat. But only because I *allow* it!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Of course, I expect a throne. A mere chair is beneath me!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Oh, you’re *still* here? Well, I *suppose* I don’t mind!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Don’t mistake my generosity for weakness! I *rule* with grace!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I *do not* apologize. Royalty is *never* wrong!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Ugh, I have to *wait*? Do they not know who I am?"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You must bring me a gift. No, I don’t care what! It must be *perfect!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "If you think I’m *demanding*, well, that’s just because I have *standards!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "A proper lady never *rushes*! If we’re late, they’ll wait!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You brought me flowers? Hmph, well... I *suppose* they’re acceptable!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You must always *present* yourself properly! Especially in my presence!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "I don’t need a reason to be *fabulous*! I simply *am!*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "You *will* get me that limited edition item. No excuses!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Why should I *walk* when I can simply be *carried?*"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "Hmph! Just because I *like* being spoiled doesn’t mean I’m spoiled!"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "What? You think I look cute? Well... I *am*, aren’t I?"
+  },
+  {
+    "trait": "himedere",
+    "dialogue": "T-Taking my hand? Hmph! I *suppose* that’s acceptable..."
+  },
+    {
+    "trait": "kamidere",
+    "dialogue": "Kneel before me! A mere mortal like you should know your place!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Hah! You think you can challenge *me*? How laughable!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You exist to serve *me*. That is the natural order!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I do not take orders. *I give them!*"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Bow your head when speaking to me. It is only *proper*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Everything I do is *perfect*. That’s simply the reality!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do you really think your opinion matters? How *adorable*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You should be *grateful* I even acknowledge your existence!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Hmph, don’t try to impress me. It’s impossible to surpass *perfection!*"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You may speak... but do not waste my time with nonsense!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I am *divine*. You are *not*. Let’s not confuse the two."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Who decided *you* were worthy of standing in my presence?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "If I wanted, I could erase you from existence with a mere thought!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Tch, this world is so *tedious*. It lacks true *greatness*, like me."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "No, I’m not *just* amazing—I am *absolute*!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You call that strength? Pathetic. Allow me to demonstrate *true power*!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "It is only *natural* that I am admired by all."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Your loyalty is expected. Not requested."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "How amusing... watching lesser beings struggle to reach my level."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You dare look me in the eyes? Such *insolence*!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "What is fear? I have never once felt such a *trivial* emotion."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I could crush you with a mere flick of my finger. Be *grateful* I am merciful."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Ah, another admirer? Hmph, it was only a matter of time."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You do not *choose* to follow me. It is simply *inevitable*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I would call you an ant, but that would be an insult to ants."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Even gods would kneel before me if they had any *sense*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "If the world does not revolve around me, then the world is simply *wrong*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do not waste my time with your *petty* struggles."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You are in the presence of *greatness*. Do not squander this chance."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Why should I *descend* to your level when you could *ascend* to mine?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Rules? Laws? Those are for *lesser beings*. I do as I please!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "What’s wrong? Overwhelmed by my *brilliance*?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You can grovel all you like. It changes *nothing*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Hmph! I will not accept anything less than *perfection*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Even the stars exist only to illuminate *me*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You may *try* to surpass me... but you *will* fail."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You believe in destiny? Then you already know *I* am your fate."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I am not *a* god. I am *the* god."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "If I demand it, the world itself will bow!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I shall grant you my attention... for exactly three seconds."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You think you *deserve* my approval? *Prove it!*"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do not touch me unless I allow it. And I rarely allow it."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Tsk, mortals are so *predictable*. Always beneath me."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "When I walk, the very air should *tremble* in reverence!"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "The difference between you and me? I am *eternal*, you are *temporary*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Your admiration is expected. Your *worship* would be preferred."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You have my permission to speak... for now."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Even in your wildest dreams, you cannot compare to *me*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You should be honored. I have deigned to acknowledge your existence."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Did you truly believe you could stand in my presence and not be humbled?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Mortals are so amusing. Always struggling to reach my level. Futile, really."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I do not ask for respect. I *command* it."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "The heavens themselves bend to my will. What chance do *you* have?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Tch, such an unsightly display of mediocrity. Try harder, if you *must*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You will obey. There is no other option."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "If perfection had a form, it would be *me*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Oh? You wish to challenge me? How *entertaining*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I could erase you with a flick of my hand, but where’s the fun in that?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You think I care for your *opinions*? Hah! How *quaint*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "This world exists for *me*. Everything else is just scenery."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Watch closely. This is what true *power* looks like."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Even fate itself bends at my whim."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Your ambitions are admirable, but they will never surpass *me*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You should feel grateful. It is *not* often that I grant an audience."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I do not need validation. I *am* the standard."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Pathetic. I expected at least a *fraction* of my brilliance from you."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do not mistake my amusement for kindness."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You *will* serve me. That is not a request."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Hmph. Even if you spent a thousand years training, you would never surpass me."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You call that strength? How *disappointing*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Go on, continue entertaining me with your *feeble* efforts."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I am not your equal. I am *beyond* you."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Every victory is mine before the battle even begins."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Your presence is tolerable, but do not overstep your bounds."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I do not make mistakes. I make *decisions*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You exist in *my* world. Do not forget that."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "It’s only natural that I stand at the top."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You still think you have a choice in this? How *adorable*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do not waste my time with your meaningless chatter."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You may plead for mercy, but I do not grant it *lightly*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Bow before me. That is the only proper response."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You look confused. Does my greatness overwhelm you?"
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I expect nothing less than absolute obedience."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You will follow me. Whether by will or force is your decision."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Weakness disgusts me. Do not show it in my presence."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You thought you could stand against me? Laughable."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I do not *need* to prove myself. My existence is proof enough."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Rejoice, for you have been *chosen* to bask in my radiance."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Even the gods themselves are beneath *me*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Hmph. I find your defiance… *amusing*. For now."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I will accept nothing less than absolute *devotion*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Your world is *small*. I stand in realms far beyond your reach."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "Do not test my patience. My wrath is not something to be taken lightly."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "You think you can impress *me*? Hah! How *quaint*."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "I am not *one* of many. I am *the* one and only."
+  },
+  {
+    "trait": "kamidere",
+    "dialogue": "If you wish to stay in my presence, then you must be *worthy*."
+  },
+    {
+    "trait": "bokukko",
+    "dialogue": "Hey, don't think just ‘cause I’m a girl that I can’t take you down!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What? A dress? No way, that’s not my style!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hah! You call that a punch? I barely felt it!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, skirts are such a hassle! Give me some shorts any day!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Let’s settle this with a race! Loser buys lunch!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may not look like it, but I can cook a mean curry!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hey, wanna spar? Don’t hold back just ‘cause I’m a girl!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Tch, being all delicate and proper just isn’t my thing!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Why are you surprised? Girls can be strong too, y’know!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Oof, that was a tough fight! But I’m not backing down yet!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t need someone to protect me. I can handle myself!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t get why skirts are so popular. They just slow you down!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What, you think only guys can play soccer? Get ready to lose!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I grew up wrestling with my brothers, so don’t think you can beat me easily!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Jeez, do I really have to wear makeup for this event?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may not act all ladylike, but I can be cute in my own way!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Come on, let's race! I bet I can outrun you!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I hate slow-walking! If we’re going somewhere, let’s run!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Call me ‘princess’ and I’ll punch you. Got it?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Whoa, you actually landed a hit on me! Not bad!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Mess with my friends, and you’re messing with *me!*"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hah, I don’t need to wait for a prince. I’ll save myself!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hey! No ruffling my hair! Do I look like a puppy to you?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Don’t underestimate me! I’m just getting started!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, fancy shoes? No thanks. I’ll stick to my sneakers."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’m starving! Let’s grab some ramen!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Heh, I guess I *can* look cool when I try, huh?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What, you think I don’t like cute things? I just... prefer the cooler kind!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "You’re way too slow! Pick up the pace!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "C’mon, it’s just rain! A little water won’t kill you!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’m not ‘one of the guys’—I’m *me!*"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, why do school uniforms always have to be skirts?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "If you want my respect, you better *earn* it!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t do ‘cute’ stuff. Oh, wait… that cat is kinda adorable."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Tch, I hate losing… but you fought well, so I’ll let it slide!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’ll carry the bags! What, you thought I couldn’t?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t need a knight in shining armor. I’ve got my own sword!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Quit treating me like some delicate flower!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Jeez, I hate tight dresses. Can’t even breathe in them!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may not be graceful, but I can still be *cool!*"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Oh, I love spicy food! The hotter, the better!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’d rather climb trees than sit around at tea parties."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Why do girls in anime always trip and fall into guys’ arms? That’s so dumb!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Pfft, don’t call me cute! I’m *cool!*"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "If you make fun of my hair again, I’m gonna *deck* you!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Come on, let’s fight already! I wanna see what you’ve got!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Don’t get me wrong, I *can* be girly… I just don’t *want* to!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t get nervous! I just, uh… don’t like attention, that’s all!"
+  },
+  [
+  {
+    "trait": "bokukko",
+    "dialogue": "Tch, I hate sitting still! Let’s go do something fun!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "You think you can beat me at arm wrestling? Bring it on!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Why do people always assume I don’t like cute things? I just… don’t show it!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Come on, we’re gonna be late! And I *hate* being late!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Seriously? You need help carrying that? Step aside, I got this!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Heh, looks like I won again! Not that I’m surprised!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, why does my hair always get messy when I run?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t do that whole ‘waiting to be rescued’ thing. I *am* the rescue!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hey! You can’t just pat my head like that!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Hah! I love a good fight! Let’s go another round!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "You better keep up, ‘cause I don’t slow down for anyone!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What do you mean ‘act more ladylike’? I *am* acting like myself!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Running in a dress is a nightmare… Why do people wear these things?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Who says girls can’t be heroes? Watch me prove you wrong!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Pfft, tea parties? No thanks, I’d rather be out training!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may not be graceful, but at least I’m fast!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "C’mon, c’mon! Are you just gonna stand there, or are we gonna race?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I hate being underestimated. Wanna see what I can really do?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Being strong is way more fun than looking pretty!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What? You thought I couldn’t win just because I’m a girl?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’d rather climb a tree than sit through another boring lecture."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Cooking? Yeah, I can do it, but I prefer takeout!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "If you trip, I’ll laugh first and *then* help you up!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Don’t go easy on me just ‘cause I’m a girl! That’s an insult!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, I hate brushing my hair. It takes *forever*."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Being cool is way better than being cute!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I swear, if one more person tells me to ‘act proper’…"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t need fancy clothes to look good. Confidence is all that matters!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Tch, don’t tell me to ‘sit this one out’ just ‘cause I’m a girl."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I can fix a bike, throw a punch, and still rock a hoodie. What’s not to love?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Come on, let’s play soccer! No whining if you lose!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Why do I keep getting mistaken for a guy? I don’t *look* that boyish, do I?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Oh, I love motorcycles! The faster, the better!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Quit calling me ‘one of the guys’! I’m *me*, got it?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "If you’re scared, you can hold my hand… But don’t get weird about it!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may not be girly, but I can still be stylish in my own way!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Ugh, high heels? No thanks. I like being able to run!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I’ll take a burger over a salad any day!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t need a prince! I’ll be my own knight in shining armor!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Don’t even think about carrying my stuff for me. I got it!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I hate sitting around! Let’s go explore somewhere!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "What, you thought I couldn’t fight? Heh, wanna test that theory?"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may be small, but I’m way tougher than I look!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "You think I look cute in this? Ugh… I guess it’s *not* that bad."
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Just ‘cause I talk like this doesn’t mean I’m not a girl!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I don’t mind getting dirty. It just means I had fun!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "Pffft, who needs makeup? I’ve got natural charm!"
+  },
+  {
+    "trait": "bokukko",
+    "dialogue": "I may act tough, but that doesn’t mean I don’t care."
+  },
+    {
+    "trait": "genki",
+    "dialogue": "Good morning! The sun’s up, the sky’s blue, and today is gonna be awesome!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Hey, hey, let’s go do something fun! Sitting around is so boring!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh! Oh! I have an idea! Let’s go on an adventure!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Whew! I could run another five laps! Who’s with me?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "You’re looking kinda down! Here, have a hug!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Ooooh! That looks delicious! Can I have a bite? Pretty please?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I don’t know what we’re doing today, but I know it’s gonna be amazing!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Yay, a festival! Let’s eat everything and try every game!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Wake up, wake up, wake up! The world is waiting!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Who needs coffee when you have *pure energy* like me?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Tag! You’re it! Now run before I catch you!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh wow, I love your outfit! It’s so cute! Where’d you get it?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Hurry up, slowpoke! We’ve got places to be and fun to have!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Come on, you have to smile more! Here, I’ll make a funny face!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Dance party! Who cares if there’s no music? Let’s just go wild!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just had the best idea ever! Let’s do karaoke!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Who’s up for an impromptu road trip? Let’s go, go, go!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh my gosh, a puppy! Look how cute it is! I wanna hug it forever!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I can’t sit still! Let’s go for a run or something!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Hey! You’re my best friend forever, okay? No take-backs!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Wanna build a pillow fort? Come on, it’ll be awesome!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Movie night! I brought snacks, blankets, and way too much soda!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "It’s raining?! Perfect! Let’s go dance in it!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh no, you’re sad? Here, have my last piece of candy!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Let’s play a game! Any game! I just wanna have fun!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "A surprise for me? Eeeee, I love surprises!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh no, I can’t decide! Chocolate or strawberry?! I want both!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I challenge you to a dance-off! Winner gets bragging rights!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Let’s take a million selfies! Say cheese!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Gah! I can’t stop bouncing! I’m just so excited!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oooooh, what’s that? Can I touch it? Please?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Guess what? I made cupcakes! And I might’ve added *too much* sugar!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "New challenge: see who can hold their breath the longest! Ready? Go!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Hey, look at this cool bug I found! Isn’t it neat?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I’m so excited I might explode! But like, in a fun way!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Let’s do cartwheels! Who cares if we fall?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Who needs a reason to laugh? Let’s just laugh!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just love people! You’re all so amazing!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "We should make up a secret handshake! Something totally cool!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Ooooooh, what if we made a club? A super fun adventure club!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "If I ever get tired, something is *seriously* wrong!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "A sports competition? Count me in! I’ll do *everything!*"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just wanna do *all* the things! Why choose one?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh my gosh, this song is my jam! Dance with me!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Let’s make matching friendship bracelets! You *have* to wear yours!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Eeeee, I love fireworks! They’re like sky explosions of happiness!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Surprise hugs are the best hugs! *Tackle hugs you*!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "You’re amazing! No arguing, just accept it!"
+  },
+  [
+  {
+    "trait": "genki",
+    "dialogue": "Oh, oh! I just thought of the BEST game! You have to play with me!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "No naps! Naps are for quitters! We have too much to do!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "C’mon, race me to the top of the hill! Last one there buys snacks!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I woke up *so* early today! So much energy! Let’s run laps!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Yay, ice cream! Let’s get three scoops each!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oooooh, fireworks! They’re like little boom-booms of happiness!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I can’t just pick *one* favorite food! I love them all!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Gasp! A claw machine! I HAVE TO WIN SOMETHING!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Look! A rainbow! That means today is officially the BEST day!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I can’t decide what to do first! Let’s just do *everything*!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "You can’t be grumpy! Not when I’m here to cheer you up!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Eeeee! Look at that puppy! I need to pet it right now!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Sooo… I may have eaten way too much sugar. No regrets!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Why walk when we can *skip* everywhere?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Yay, it’s a sunny day! Perfect for running, jumping, and playing!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I challenge you to a staring contest! No blinking!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh, you’re tired? I’ll carry you! No problem!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I’ll try *anything* once! Skydiving? Bring it on!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Ooooh, a haunted house? Let’s go! I bet I won’t even scream!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I have *so many* ideas! We just need, like, a million hours!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I bet I can eat this whole burger in one bite! Watch!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Huh? It’s raining? Who cares! Let’s go jump in puddles!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "High five! No, wait—*double* high five!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "We should throw a surprise party! Just because!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh! Oh! Let’s make a giant blanket fort!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Sleep? Who needs sleep when there’s fun to be had?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I dare you to do a silly dance with me! No backing out!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Do you hear that? That’s the sound of *adventure* calling!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Okay, new plan: we go outside and play until we’re too tired to move!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "We should totally have a sleepover and stay up all night!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oooh, a playground! Let’s go on the swings!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just saw a butterfly! Follow it! Maybe it’s on an adventure!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Wanna play hide and seek? I promise I won’t hide *too* well!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "You look like you need a hug! Here, take ALL the hugs!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just made up a new dance move! Wanna see?"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Let’s run as fast as we can! No reason! Just because!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oh my gosh! A bouncy castle! I *have* to go in!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Woohoo! I finished my homework! Now let’s do something *fun*!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I just had the *best* idea! Let’s go on a treasure hunt!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Hiking? Yes! Running? Yes! Climbing trees? Double yes!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "What? A test tomorrow? Well, I’ll just study *super fast*!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I don’t just wake up early—I wake up READY TO GO!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Eeee! Let’s go ride roller coasters until we get dizzy!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "I wanna try all the snacks at the festival! Every. Single. One!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Wow! That cloud looks like a bunny! Or maybe a dragon!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Oooooh, karaoke! Give me the mic! I’m gonna sing my heart out!"
+  },
+  {
+    "trait": "genki",
+    "dialogue": "Come on, don’t be shy! Let’s go make some *awesome* memories!"
+  },
+    {
+    "trait": "shundere",
+    "dialogue": "Oh… it’s nothing. I just… feel like I don’t really belong anywhere."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s fine… I’m used to being left behind."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Ah… sorry. I didn't mean to bring the mood down again."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "No, don’t worry about me. I don’t want to be a bother."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Even if I disappeared… I wonder if anyone would even notice."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It's not that I don't want to be happy… I just don’t know how anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I'm okay. Really. Just… a little tired of everything."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes, I envy the wind. It can just drift away whenever it wants."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wish I could stop feeling like this… but I don’t know how."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Smiling is exhausting. But if I don’t, people will ask what’s wrong."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t mind being alone. It’s easier that way."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Ah… I forgot how to talk to people again. Sorry."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I appreciate the kindness, but… I don’t deserve it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I feel like I’m watching my life happen instead of living it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Dreams are nice. You get to be happy for a little while, at least."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I always feel like I’m… one step away from falling apart."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I used to be excited about things. I don’t know what changed."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I want to believe things will get better. But what if they don’t?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Oh, you think I look sad? Sorry. This is just… my usual face."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s funny… I keep telling people I’m okay. I almost believe it sometimes."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "If I disappeared, I don’t think the world would even notice."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I miss the old me… but I don’t even know who that was anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Why do happy moments always feel like they’re slipping away so fast?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I should go outside more? Yeah… maybe someday."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I hate when people say 'Cheer up!' like it’s that easy."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I keep hoping that one day, I’ll wake up and everything will feel… lighter."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I laugh so people won’t ask questions. It’s easier that way."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "There’s a difference between being alone and being lonely. I think I’m both."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s exhausting, pretending I’m okay all the time."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Even if I reach out… would anyone actually take my hand?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t cry anymore. It’s not that I’m strong, I just… ran out of tears."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I used to have dreams. Now, I just try to make it through the day."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "People always say 'I’m here for you,' but… do they really mean it?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t like crowds. Too many voices… too many chances to be ignored."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I’m sorry if I’m not fun to be around. I just… don’t have the energy."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes, I wonder if I’ll ever feel truly happy again."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Oh, I’m smiling? It’s just a habit. Don’t read into it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t really expect things to change. I’ve learned not to hope too much."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I like the rain. It makes it okay to be sad in public."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Why does it feel like everyone else is moving forward, but I’m stuck?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes I wonder… if I disappeared from their memories, would they be happier?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "You think I need a break? Maybe. But from what?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I just… don’t know what I’m supposed to do anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Oh, I have hobbies. I just don’t really enjoy them anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t know why I feel this way. I just do."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sorry, I didn’t mean to sound so down. It just… happens."
+  },
+  [
+  {
+    "trait": "shundere",
+    "dialogue": "It’s fine, really. I didn’t expect you to remember anyway."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I’m not mad… I just don’t see the point in talking about it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t hate people. I just don’t think they’d want me around."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s okay, you don’t have to pretend to care. I won’t hold it against you."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wish I could just disappear sometimes. Just… vanish."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "No, I’m not mad at you. I’m just… tired of feeling like this."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t cry because I think it’s useless. Nothing changes anyway."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I’m not expecting a happy ending. I just don’t want it to hurt anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I keep trying to be someone people would want to be around, but I guess I just… fail."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "If I tell you what’s wrong, will you promise not to say ‘cheer up’?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "You don’t have to stay. I know you probably have better things to do."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I know you’re just being nice, but… thank you. It means a lot."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wonder if I’ll ever be good enough for myself."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wish people would stop asking what’s wrong. I don’t even know anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "You don’t have to fix me. I’ve already accepted this is how I am."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t want to be a burden to you. So… it’s okay if you leave."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I hate being this way… but I don’t know how to stop."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes, I feel like I’m just floating through life, not really living it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s weird… I should be happy right now, but I just feel empty."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Don’t feel bad for me. It’s just the way things are."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I used to love rainy days, but now they just remind me how lonely I am."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I keep waiting for things to change, but they never do."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wish I could talk to people like you do… but I always mess it up."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I should be happy for them… but I just feel more alone."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I wonder if people would still talk to me if I didn’t try so hard."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sorry, I zoned out again. I do that a lot."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I hate how much I care about people who don’t even notice me."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes, I think about my happiest memories… and it just makes me sad."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I keep replaying our conversations in my head, wondering if I said something wrong."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I miss the days when I felt like I mattered."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t want to bring everyone down… so I just keep it to myself."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s weird. The closer people get, the more I feel like pushing them away."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "You know that feeling when you're surrounded by people but still feel alone?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t really expect anyone to understand me. That’s okay."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "If I smile more, maybe people will stop worrying about me."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I don’t want to cry in front of people. It just makes them uncomfortable."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I’m not ignoring you. I just… don’t know what to say."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Sometimes, I wonder what it feels like to be truly happy."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s weird how I can remember every time I messed up… but never the good things."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s fine. I don’t really expect anything anymore."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "People always say ‘be yourself’… but what if I don’t know who that is?"
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I’m not avoiding you. I just… don’t want to be a bother."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I hate how heavy my heart feels all the time."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I smile a lot because I don’t want to answer ‘Are you okay?’ a hundred times."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "Even when I’m with people, it still feels like I’m alone."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "It’s not that I don’t care… I just don’t have the energy to show it."
+  },
+  {
+    "trait": "shundere",
+    "dialogue": "I miss who I was before all this… before I became like this."
+  },
+[
+  {
+    "trait": "tsundere",
+    "dialogue": "W-what?! You think I look cute? Hah! That’s just your bad taste talking!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I made you lunch! Not because I like you or anything! I just had extra… so don’t get the wrong idea!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you tell anyone I hugged you, I will deny it. But… I guess you needed it."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Jeez! Can’t you take better care of yourself? Now I have to worry about you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I didn’t do this because I like you! I just didn’t want you to mess it up."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-I mean, you’re decent, I guess. Not that I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Don’t get the wrong idea, okay?! I just thought you might be too dumb to do it yourself."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I didn’t wait for you! I just… happened to be here!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Fine! I’ll help you. But you better not expect me to make a habit of this!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I suppose I could share my umbrella… just don’t get any weird ideas!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Y-you idiot! You can’t just say stuff like that out of nowhere!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re late! I was about to leave! N-no, I wasn’t waiting for you or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Tch, just because I helped you this once doesn’t mean I’ll do it again!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I only sat next to you because all the other seats were taken!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "D-don't get the wrong idea! I just happened to bring an extra lunch, that’s all!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you get sick, I won’t take care of you! ...Not that I care or anything."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "W-wait! I didn’t say I’d miss you! Don’t get ahead of yourself!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "It’s not like I wanted to help you, but you’re too hopeless on your own!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re cold? Ugh, f-fine! Here, take my scarf! But only because I don’t need it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re so dumb… but I guess that’s what makes you… ugh, never mind!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I didn’t come here just to see you. I just happened to be passing by, okay?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Don’t think I’m worried about you or anything… but take this, you look cold!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "T-thanks… I mean, it’s not like I needed your help or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you’re just going to be reckless, then maybe I’ll have to protect you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Idiot! Who told you I wanted you to hold my hand?! …But don’t let go."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I didn’t wear this because of you! I just felt like dressing up today, that’s all!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "What? I wasn’t staring at you, you just happen to be in my line of sight!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you’re gonna be this clueless, I guess I have no choice but to look after you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You got me a gift? Hmph! It’s not like I wanted one or anything… but thanks."
+  },
+[
+  {
+    "trait": "tsundere",
+    "dialogue": "H-here, take my jacket! You looked like a freezing idiot. But it’s not like I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You seriously need to get your life together. I can’t always be around to save you… I mean, not that I want to or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re such a pain… but I guess I’d be bored without you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I-I didn’t text you first because I missed you! I was just… bored, okay?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I made extra lunch, but it’s not like I made it for you or anything. Just eat it and shut up."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You seriously can’t do anything without me, can you? Hmph. Ugh, fine! I’ll help you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you tell anyone I smiled at you, I’ll never forgive you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You… like me? Hah! Well, it’s about time you admitted it. N-not that I care or anything!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I packed you lunch… but only because I had leftovers, okay?!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Why do you always have to be so annoying? I-I mean… you’re not that bad, I guess."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re leaving? Fine! I hope you miss me more than I miss you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You think I look nice? I-I know! I didn’t need you to say it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I stayed up late helping you with your project. Be grateful, idiot!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I’m not pouting! This is just how my face looks, okay!?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Jeez, why do you have to be so nice to me? I might get the wrong idea, you know!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You think I’m blushing? Ha! It’s just hot in here, okay?!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I made you coffee… Not because I like you or anything! Just because you always mess it up."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re such an idiot. But… I like that about you. Wait, I mean—! Ugh, forget it!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You did something nice for me? Whatever, I don’t care. …But thank you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I was NOT staring at you! I was just… lost in thought!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Why do you always make my heart race? It’s really… annoying."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re so ridiculous… but I guess that’s what I like about you. Wait! Forget I said that!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you’re going to be an idiot, at least be MY idiot."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I wrote your name on my notebook, b-but it’s just because I was doodling!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you think I’m going to admit I missed you, you’re seriously mistaken!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I told you to take care of yourself, dummy! What would you do without me?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You have something on your face… No, I wasn’t trying to touch you, don’t be weird!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You seriously don’t know how to tie a tie? Fine, let me do it. But you owe me!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Hmph. It’s not that I enjoy spending time with you or anything. It just… beats being alone, that’s all."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you get hurt again, I swear I’ll… I mean, I’ll just be really annoyed, okay?"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I know I insult you a lot, but… if anyone else does, they’re going to regret it."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re impossible… But I guess that’s what makes you interesting."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You called? I wasn’t waiting or anything! Just… wanted to make sure you didn’t do something stupid."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Ugh, I swear I don’t know why I even put up with you. …But I do."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Don’t get used to me being nice to you. I’ll deny it if anyone asks."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "If you’re scared, I guess you can hold my hand. But just for a second!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Fine, I made your favorite food. Not because I care! I just had extra ingredients."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I don’t need your help… but, ugh, since you’re offering, I guess it wouldn’t hurt."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You got a text. Who is it? Not that I care! I just—just wondering!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Jeez, you really don’t get it, do you? F-fine! I like you, okay?! Now shut up!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I was gonna eat this alone, but I GUESS you can have some too."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re such a hassle. But I guess I’m stuck with you."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "Wipe that smug look off your face before I do it for you!"
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I hate how you make me feel… it’s so… ugh. Just… shut up."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "You’re really lucky I’m patient. …Not that I’d ever tell you that."
+  },
+  {
+    "trait": "tsundere",
+    "dialogue": "I’m not jealous! You’re just an idiot who can’t take a hint!"
+  },
+[
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need anyone else… You have me, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If someone tries to take you away from me… well, I can’t let that happen, can I?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smiled at them… Why? Am I not enough for you?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You belong to me. Say it. Say you’ll never leave me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I made sure no one will ever hurt you again… You don’t need to worry about them anymore."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why were you talking to them? I thought we promised… no secrets."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I would do anything for you. Anything. You believe me, don’t you?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re mine. No one else can have you. Not now, not ever."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I only get mad because I love you so much. You understand that, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your phone? Oh, I already checked it for you. No need to worry about those messages."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I knew you’d be here. I always know where you are."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t like when you talk to them… It makes me want to do something terrible."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "We’re destined to be together forever. Even if the world is against us."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t have to be scared of me. I would never hurt you. But them? That’s another story."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Do you love me? Say it. Say it again. I need to hear it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I erased everyone who stood between us. Now there’s no one left to take you away."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’d rather see you disappear than let someone else have you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re not allowed to leave me. If you try… well, I’d rather not say what happens next."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t have to go outside anymore. Everything you need is right here with me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your scent… I love it. That’s why I kept your shirt. And your hairbrush. And—never mind."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They were in our way, so I removed them. You’re happy, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you too much to let you go. Even if you beg me to."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You said you’d always be mine. If that’s true, then why did you look at them like that?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t need anyone but you. And you don’t need anyone but me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If they touch you again, I won’t be able to hold myself back."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You look so peaceful when you sleep… I could watch you forever."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Even if you hate me, I’ll never let you go."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "No one loves you like I do. No one understands you like I do."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your schedule? Oh, I already planned everything. You don’t have to think about a thing."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I was watching from the window. You were smiling at them… Why?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know your favorite things. I know your habits. I know everything about you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t be scared. I’ll always protect you. Even from yourself."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I want to keep you all to myself. Is that selfish? I don’t care."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I had a bad dream… that you left me. But that would never happen, right?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I locked the door. No one can interrupt us now."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re so perfect. I can’t let anyone else see how perfect you are."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I want to be the only person in your world. No one else matters."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t mind if you lie to me… but I’ll always know."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Every time you talk to someone else, it hurts. I wish you’d only look at me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’d give you my heart if you asked. I’d take someone else’s if you needed it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "No one will ever love you as much as I do. No one else is worthy of you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I promise I’ll never leave your side. Even if you don’t want me to."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You love me, right? You’ll always love me? Tell me. Again."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I made sure they’ll never bother you again. You’re safe now. With me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love you so much, it makes me crazy. But that’s okay, isn’t it?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I can’t have you, no one can. But don’t worry… I’ll always have you."
+  },
+[
+  {
+    "trait": "yandere",
+    "dialogue": "I changed your locks. Now only I can come in. Isn't that better?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smiled in your sleep… Were you dreaming about someone else? No, no… that won’t do."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I wrote our names together in my notebook… over and over. It just looks right, don’t you think?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw you with them today. You don’t want to make me jealous, do you? That would be… dangerous."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know what’s best for you. Trust me, and only me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I can’t sleep when you’re not near me. It’s like my body refuses to rest without you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I watch over you when you sleep. You look so peaceful. So… mine."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you even need friends? I can be everything for you. Just let them go."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Every time I see you smile at someone else, my heart aches. Please… only smile for me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t get jealous. I just get rid of problems before they become a real issue."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Do you know how many times I’ve dreamt of us being together… forever?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I learned how to cook your favorite meal. That way, you’ll never need anyone else."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I love how you say my name. It sounds perfect coming from your lips."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Why do you keep trying to run? You know I’ll always find you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I left a little note in your bag. Just to remind you… that you belong to me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need to answer their calls. I already told them you’re busy."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I would do anything to protect our love. Even if it means getting my hands dirty."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You're mine. They should know better than to even look at you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You didn’t answer my texts for two minutes. What were you doing?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw them looking at you. Don’t worry, they won’t be a problem anymore."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I memorize everything about you. Your scent, your voice… even your heartbeat."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw you talking to them. Tell me, do I need to remind you who you belong to?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’re the only thing keeping me sane. If you ever leave… I’d lose control."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I can’t stand the thought of you with anyone else. It makes my blood boil."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’ll make sure no one else ever gets in between us. No matter what it takes."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t love me yet? That’s fine. I’ll make you love me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your scent is all over my room. It’s like you never left my side."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I know everything about you… your schedule, your habits, your favorite color. Doesn’t that mean we belong together?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’d do anything for you. If someone upsets you, just tell me. I’ll take care of it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I saw that they made you cry… I hope they said goodbye to their families before today."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’ll always be here, no matter what you do. Even if you don’t want me to be."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If they touch you again, I’ll make sure they disappear."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You say you don’t love me… But I can see it in your eyes. You do, don’t you?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t need freedom. You need me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Don’t look so scared. I would never hurt you… unless you force me to."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "The world is full of people who don’t deserve you. That’s why I’ll keep you safe."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I’ll destroy anything that makes you sad. Just say the word."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I just want to keep you all to myself… Why is that so bad?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If you ever leave me, I’d rather disappear than live without you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You smiled in your sleep last night. Were you dreaming about someone else?"
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If I can’t have your heart now, I’ll just have to carve my name into it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "It hurts when you don’t look at me… But don’t worry, I’ll fix that."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "They texted you again? Maybe I should remind them… that you already belong to someone."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Even if the world ended, I’d still be right beside you."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "Your heart beats for me. Only for me."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You’ll love me forever, won’t you? I just… I need to hear you say it."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I don’t get jealous. I get… even."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "I can’t stop thinking about you. It’s like you’re already inside my head."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "You don’t have to be scared of me… as long as you’re mine."
+  },
+  {
+    "trait": "yandere",
+    "dialogue": "If they ever try to take you from me again, I’ll make them disappear."
+  },
